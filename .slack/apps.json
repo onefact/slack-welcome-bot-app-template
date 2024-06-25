@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "T03THK16PRR": {
+      "app_id": "A07A454EEC9",
+      "IsDev": false,
+      "team_domain": "1fact",
+      "team_id": "T03THK16PRR"
+    }
+  },
+  "default": "1fact"
+}
